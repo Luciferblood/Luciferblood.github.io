@@ -1,0 +1,47 @@
+*{margin: 0px;padding: 0px;}
+
+
+h1{
+	font-size: 72px;
+	text-align: center;
+	padding-top: 20%;
+	color: white;
+}
+
+a{
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: black;
+	padding: 10px;
+	margin: 10px;
+}
+
+a:hover{
+	background: black;
+	color: white;
+	transition: all .5s;
+}
+
+body{
+	background-color: #5fc25f;
+}
+
+div{
+	width: 100%;
+	height: 200px;
+	text-align: center;
+}
+
+ul{
+	display: inline-flex;
+}
+
+li{
+	list-style-type: none;
+}
+
+.link{
+	padding: 10px;
+	margin: 20px 0px;
+}
